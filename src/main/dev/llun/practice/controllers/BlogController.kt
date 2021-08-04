@@ -12,4 +12,5 @@ class BlogController {
     fun hello(model: Model):String {
         return "hello"
     }
+
 }
