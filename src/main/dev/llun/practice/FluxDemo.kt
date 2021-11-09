@@ -1,7 +1,6 @@
 package dev.llun.practice
 
 import reactor.core.publisher.Flux
-import reactor.kotlin.core.publisher.toFlux
 import reactor.kotlin.core.publisher.toMono
 
 fun main(args: Array<String>) {
